@@ -24,4 +24,3 @@ python3 main.py
 </div>
 
 # Resources
-- [@Python3_channel](https://t.me/python3_channel)
